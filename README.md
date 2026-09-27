@@ -1,6 +1,7 @@
 HỌ VÀ TÊN : BÙI MINH HOÀNG
 LỚP : CÔNG NGHỆ THÔNG TIN 1 HCM
 NGÀY THỤC HIỆN 25/4/2026
+
 **PHẦN 1. KHÁM PHÁ BẢN THÂN BẰNG IKIGAI**
  Bước 1. What I Love –
  Em thích điều gì?                      Em thích...Vì sao em thích?                  Em thường dành thời gian cho việc này như thế nào?
@@ -60,5 +61,35 @@ T – Threats (Thách thức) :
 2. Trí tuệ nhân tạo (AI) tự động hóa nhanh các tác vụ phân tích cơ bản, đòi hỏi tư duy giải quyết vấn đề sắc bén hơn.
 
 **PHẦN 4. XÁC ĐỊNH KHOẢNG CÁCH NĂNG LỰC**
+Năng lực cần có          Mức hiện tại (1–5)      Mức mục tiêu (1–5)       Khoảng cách         Cần làm gì?
+Tiếng Anh giao tiếp & chuyên ngành     2            4                         2                 Học 45 phút/ngày; luyện đọc 1 case study tiếng Anh/tuần
+Kỹ năng xử lý dữ liệu (Excel nâng cao & SQL)    2         4                   2                 Học hoàn thành 1 khóa SQL cơ bản trên Coursera; thực hành 3 buổi/tuần
+Viết tài liệu nghiệp vụ (BRD/User Story)           1          3               2                 Tham gia workshop câu lạc bộ; giải 1 case study thực hành mỗi tháng 
+
+**PHẦN 5. XÁC ĐỊNH TẦM NHÌN 4 NĂM**
+Trong tương lai, em muốn trở thành lập trình viên phần mềm trong lĩnh vực công nghệ thông tin. Em mong muốn tạo ra sản phẩm hữu ích, giải quyết vấn đề thực tế. Để đạt mục tiêu, em sẽ rèn luyện tư duy logic, kỹ năng lập trình, làm việc nhóm và giao tiếp. Em muốn học cách xây dựng ứng dụng dễ sử dụng, an toàn và phù hợp với người dùng. Em dự định làm portfolio gồm website và ứng dụng do mình phát triển, đồng thời tham gia dự án thực tế hoặc thực tập tại công ty. Em muốn đạt trình độ tiếng Anh đủ tốt để đọc tài liệu, trao đổi với đồng nghiệp và tự tin phỏng vấn. Em hy vọng trở thành người ham học hỏi, kiên trì, có trách nhiệm và sẵn sàng chia sẻ kiến thức.
+
+**PHẦN 6. CHUYỂN TẦM NHÌN THÀNH MỤC TIÊU SMART**
+**PHẦN 7. XÂY DỰNG KẾ HOẠCH HÀNH ĐỘNG**
+Mục tiêuH      ành động     Tần suấtThời gian      Kết quả cần đạt     Minh chứng       
+Nâng trình độ Tiếng Anh       Luyện đề Nghe - Đọc TOEIC       4 buổi/tuầnT3, T5, T7, CN (19h30–20h30)           Nắm chắc 30 từ mới/tuần, điểm test tăng đều      Bảng ghi chép Notion, lịch sử kiểm tra web
+Học công cụ dữ liệu        Xem bài giảng & làm lab SQL        3 buổi/tuầnT2, T4, T6 (19h30–21h00)             Hoàn thành 1 module bài giảng và bài test lab          File code nộp trên hệ thống Coursera  
+Rèn kỹ năng thuyết trình   Quay video tóm tắt 1 bài đọc1 lần/tuần    Sáng Chủ Nhật (09h00–10h00)                Video diễn đạt lưu loát 3 phút không nhìn tài liệu    Video lưu trên Google Drive cá nhân
+
+**PHẦN 8. GẮN VỚI QUẢN LÝ THỜI GIAN**
+*EM CHƯA SẮP XẾP ĐƯỢC THỜI GIAN CỦA MÌNH !
+
+**PHẦN 10. ĐO LƯỜNG TIẾN ĐỘ**
+*EM ĐANG COI LẠI BẢN THÂN MÌNH HIỆN TẠI VÀ THỰC HIỆN TỪNG BƯỚC NHỎ VÀ CHƯA TỰ NHẠN XÉT ĐƯỢC NĂNG LỰC CỦA MÌNH Ạ !
+**PHẦN 11. PDCA – CƠ CHẾ TỰ ĐIỀU CHỈNH SAU MỖI TUẦN**
+PLAN (Em dự định): Dành đủ 4 buổi tối (tổng 4 tiếng) học từ vựng TOEIC và hoàn thành module 2 khóa học SQL căn bản trên Coursera.
+DO (Em đã thực hiện): Tham gia đủ 4 buổi tiếng Anh, nhưng khóa SQL chỉ học được 1 buổi do thứ 4 và thứ 6 bị phát sinh lịch làm bài tập nhóm đột xuất môn khác.
+CHECK (Kết quả thực tế):
+Mục tiêu: 4h Anh văn + 2 module SQL.
+Kết quả: Đạt 4h Anh văn; hoàn thành 0.5 module SQL.
+Chênh lệch: Thiếu 1.5 module SQL so với kế hoạch ban đầu.
+ACT (Em sẽ điều chỉnh):
+Bổ sung 1 buổi học bù 90 phút vào sáng thứ Bảy tuần tới để hoàn thành dứt điểm phần SQL còn nợ.
+Quy định cố định thời gian làm bài nhóm chỉ từ 17h00–18h30 để không lấn vào khung Focus Block buổi tối.
 
 
