@@ -80,7 +80,8 @@ Rèn kỹ năng thuyết trình   Quay video tóm tắt 1 bài đọc1 lần/tu�
 *EM CHƯA SẮP XẾP ĐƯỢC THỜI GIAN CỦA MÌNH !
 
 **PHẦN 10. ĐO LƯỜNG TIẾN ĐỘ**
-*EM ĐANG COI LẠI BẢN THÂN MÌNH HIỆN TẠI VÀ THỰC HIỆN TỪNG BƯỚC NHỎ VÀ CHƯA TỰ NHẠN XÉT ĐƯỢC NĂNG LỰC CỦA MÌNH Ạ !
+ *EM ĐANG COI LẠI BẢN THÂN MÌNH HIỆN TẠI VÀ THỰC HIỆN TỪNG BƯỚC NHỎ VÀ CHƯA TỰ NHẠN XÉT ĐƯỢC NĂNG LỰC CỦA MÌNH Ạ !
+
 **PHẦN 11. PDCA – CƠ CHẾ TỰ ĐIỀU CHỈNH SAU MỖI TUẦN**
 PLAN (Em dự định): Dành đủ 4 buổi tối (tổng 4 tiếng) học từ vựng TOEIC và hoàn thành module 2 khóa học SQL căn bản trên Coursera.
 DO (Em đã thực hiện): Tham gia đủ 4 buổi tiếng Anh, nhưng khóa SQL chỉ học được 1 buổi do thứ 4 và thứ 6 bị phát sinh lịch làm bài tập nhóm đột xuất môn khác.
